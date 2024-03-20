@@ -8,7 +8,19 @@
   {
     "package": "AOI",
     "url": "https://github.com/mikejohnson51/AOI",
+    "via": ["climateR.catalogs"],
+    "from": "climateR.catalogs"
+  },
+  {
+    "package": "AOI",
+    "url": "https://github.com/mikejohnson51/AOI",
     "via": ["nwmTools"],
     "from": "nwmTools"
+  },
+  {
+    "package": "climateR",
+    "url": "https://github.com/mikejohnson51/climateR",
+    "via": ["climateR.catalogs"],
+    "from": "climateR.catalogs"
   }
 ]
