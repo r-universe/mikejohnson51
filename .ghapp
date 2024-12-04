@@ -1,0 +1,10 @@
+{
+  "id": 57946472,
+  "created_at": "2024-12-04T03:46:40.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["mikejohnson51.r-universe.dev"]
+}
