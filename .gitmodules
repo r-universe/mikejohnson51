@@ -11,8 +11,8 @@
 [submodule "climateR"]
 	path = climateR
 	url = https://github.com/mikejohnson51/climateR
-[submodule "climateR-catalogs"]
-	path = climateR-catalogs
+[submodule "climateR.catalogs"]
+	path = climateR.catalogs
 	url = https://github.com/mikejohnson51/climateR-catalogs
 [submodule "nwmTools"]
 	path = nwmTools
