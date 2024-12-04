@@ -7,7 +7,7 @@
 	url = https://github.com/mikejohnson51/AHGestimation
 [submodule "AOI"]
 	path = AOI
-	url = https://github.com/mikejohnson51/hydrofabric
+	url = https://github.com/mikejohnson51/AOI
 [submodule "climateR"]
 	path = climateR
 	url = https://github.com/mikejohnson51/climateR
