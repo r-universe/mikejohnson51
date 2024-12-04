@@ -1,4 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mikejohnson51/mikejohnson51.r-universe.dev
 	branch = HEAD
+[submodule "AHGestimation"]
+	path = AHGestimation
+	url = https://github.com/mikejohnson51/AHGestimation
+[submodule "AOI"]
+	path = AOI
+	url = https://github.com/mikejohnson51/hydrofabric
+[submodule "climateR"]
+	path = climateR
+	url = https://github.com/mikejohnson51/climateR
+[submodule "climateR-catalogs"]
+	path = climateR-catalogs
+	url = https://github.com/mikejohnson51/climateR-catalogs
+[submodule "nwmTools"]
+	path = nwmTools
+	url = https://github.com/mikejohnson51/nwmTools
+[submodule "zonal"]
+	path = zonal
+	url = https://github.com/mikejohnson51/zonal
