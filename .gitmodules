@@ -14,9 +14,21 @@
 [submodule "climateR.catalogs"]
 	path = climateR.catalogs
 	url = https://github.com/mikejohnson51/climateR-catalogs
+[submodule "ncmeta"]
+	path = ncmeta
+	url = https://github.com/dblodgett-usgs/ncmeta
+	registered = false
 [submodule "nwmTools"]
 	path = nwmTools
 	url = https://github.com/mikejohnson51/nwmTools
+[submodule "pizzarr"]
+	path = pizzarr
+	url = https://github.com/keller-mark/pizzarr
+	registered = false
+[submodule "rnz"]
+	path = rnz
+	url = https://github.com/doi-usgs/rnz
+	registered = false
 [submodule "zonal"]
 	path = zonal
 	url = https://github.com/mikejohnson51/zonal
