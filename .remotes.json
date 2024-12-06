@@ -18,10 +18,22 @@
     "from": "nwmTools"
   },
   {
+    "package": "AOI",
+    "url": "https://github.com/mikejohnson51/AOI",
+    "via": ["zonal", "climateR"],
+    "from": "zonal"
+  },
+  {
     "package": "climateR",
     "url": "https://github.com/mikejohnson51/climateR",
     "via": ["climateR.catalogs"],
     "from": "climateR.catalogs"
+  },
+  {
+    "package": "climateR",
+    "url": "https://github.com/mikejohnson51/climateR",
+    "via": ["zonal"],
+    "from": "zonal"
   },
   {
     "package": "ncmeta",
@@ -30,15 +42,33 @@
     "from": "climateR"
   },
   {
+    "package": "ncmeta",
+    "url": "https://github.com/dblodgett-usgs/ncmeta",
+    "via": ["zonal", "climateR"],
+    "from": "zonal"
+  },
+  {
     "package": "pizzarr",
     "url": "https://github.com/keller-mark/pizzarr",
     "via": ["climateR", "ncmeta", "rnz"],
     "from": "climateR"
   },
   {
+    "package": "pizzarr",
+    "url": "https://github.com/keller-mark/pizzarr",
+    "via": ["zonal", "climateR", "ncmeta", "rnz"],
+    "from": "zonal"
+  },
+  {
     "package": "rnz",
     "url": "https://github.com/doi-usgs/rnz",
     "via": ["climateR", "ncmeta"],
     "from": "climateR"
+  },
+  {
+    "package": "rnz",
+    "url": "https://github.com/doi-usgs/rnz",
+    "via": ["zonal", "climateR", "ncmeta"],
+    "from": "zonal"
   }
 ]
